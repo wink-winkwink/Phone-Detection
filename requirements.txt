@@ -1,4 +1,4 @@
-opencv-python-headless
-ultralytics
 streamlit
 streamlit-webrtc
+ultralytics
+opencv-python-headless
